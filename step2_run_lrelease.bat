@@ -1,0 +1,1 @@
+C:\Qt\Qt6.8.2\6.8.2\mingw_64\bin\lrelease myapp.ts myapp_de.ts
